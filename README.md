@@ -1,0 +1,3 @@
+# Hi to everyone!
+
+GitHub is a cool place...
